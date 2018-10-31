@@ -3,9 +3,10 @@
 
 @snap[west headline text-white span-70]
 OpenStreetMap<br>
+@snapend
+@snap[west headline text-white span-40]
 *O que é?<br> Como funciona?*
 @snapend
-
 @snap[south-west byline  text-white]
 www.openstreetmap.org
 @snapend
