@@ -3,11 +3,11 @@
 
 @snap[west headline text-white span-70]
 OpenStreetMap<br>
-*www.openstreetmap.org*
+*O que é?<br> Como funciona?*
 @snapend
 
 @snap[south-west byline  text-white]
-O que é? Como funciona?
+www.openstreetmap.org
 @snapend
 
 ---
