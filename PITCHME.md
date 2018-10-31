@@ -1,12 +1,13 @@
----?color=linear-gradient(to right, #c02425, #f0cb35)
+---?color=linear-gradient(to right, #d4e4ef, #86adcc)
 @title[Introduction]
 
 @snap[west headline text-white span-70]
-OpenStreetMapGitPitch<br>*The Template*
+OpenStreetMap<br>
+*www.openstreetmap.org*
 @snapend
 
 @snap[south-west byline  text-white]
-The Fastest Way From Idea To Presentation.
+O que é? Como funciona?
 @snapend
 
 ---
